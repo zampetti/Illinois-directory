@@ -36,11 +36,10 @@ Cards flow left to right, top to bottom.
 
 By going through this exercise we'd like to see:
 
-1. How you approcah a web project.
-1. How you might design a back end data api.
+1. How you approach a programing project.
+1. How you might design a backend data storage and data access.
 1. How you use Javascript, CSS, and HTML to accomplish the UX design goals.
 
 This a chance to demonstrate your preferred build environment and tools (e.g. TypeScript, SCSS, Webpack, Gulp, Bootstrap, React, Angular).  Or you may prefer to use vanilla JS and CSS.
 
 We're not really looking for a whiz-bang flashy solution.  We'd like a well thought out one where you can discuss your design and programming process and choices.
-
