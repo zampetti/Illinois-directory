@@ -46,11 +46,13 @@ We're not really looking for a whiz-bang flashy solution.  We'd like a well thou
 
 ## Deliverables
 
-A 10-15 minutes presentation that outlines:
+A 10-15 minute presentation that outlines:
 
 * What tools / languages you would use to develop this project. 
 * A general architecture of the website. 
 * Any issues or risks that you see may present problems (e.g. accessibility, usability, scalability).
+
+This will be a Zoom meeting where you can share you screen, desktop, and documents.
 
 Be prepared to answer questions about your presentation. 
 
