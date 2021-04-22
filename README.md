@@ -32,7 +32,7 @@ Cards flow left to right, top to bottom.
 
 * A user can chose to sort by name or by department.
 
-## Goal
+## What We're Looking For
 
 By going through this exercise we'd like to see:
 
