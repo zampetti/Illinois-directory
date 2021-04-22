@@ -1,5 +1,5 @@
 # Directory Design Project
-An opportunity to demonstrate database, backend coding, Javascript, CSS, and HTML coding.
+An opportunity to discuss database, backend coding, Javascript, CSS, and HTML coding.
 
 ## Sample Data
 Sample user profile data can be found in the "/data" folder
