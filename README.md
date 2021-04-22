@@ -52,7 +52,7 @@ A 10-15 minute presentation that outlines:
 * A general architecture of the website. 
 * Any issues or risks that you see may present problems (e.g. accessibility, usability, scalability).
 
-This will be a Zoom meeting where you can share you screen, desktop, and documents.
+This will be a Zoom meeting where you can share your screen, desktop, documents, and links.
 
 Be prepared to answer questions about your presentation. 
 
