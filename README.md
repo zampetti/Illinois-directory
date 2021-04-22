@@ -4,11 +4,11 @@ An opportunity to discuss database, backend coding, Javascript, CSS, and HTML co
 ## Sample Data
 Sample user profile data can be found in the "/data" folder
 
-* [user-profiles-5.json](data/user-profiles-5.json) has 5 entries.
-* [user-profiles-500.json](data/user-profiles-500.json)  has 500 entries.
+* [user-profiles-5.json](Data/user-profiles-5.json) has 5 entries.
+* [user-profiles-500.json](Data/user-profiles-500.json)  has 500 entries.
 
 ## Design Documentation
-The PDF [directory-wireframe.pdf](design%20documents/directory-wireframe.pdf) depicts desired layouts on desktop and a mobile devices.
+The PDF [directory-wireframe.pdf](Design%20Documents/directory-wireframe.pdf) depicts desired layouts on desktop and a mobile devices.
 
 The PDF is meant to be a back-of-the-napkin type design document.  We'd like to replicate it conceptually, but it doesn't need to be exact. 
 
