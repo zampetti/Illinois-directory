@@ -1,0 +1,44 @@
+$screen-sm-min: 480px;
+@mixin sm {
+    @media (min-width: #{$screen-sm-min}) {
+        @content;
+    }
+ }
+
+body {
+    font-family: sans-serif;
+    width: 75%;
+    margin: auto;
+    padding: 5%;
+
+    .search {
+        text-align: right;
+
+        input {
+            border: 1px solid black;
+            padding: 1%;
+        }
+    }
+
+    hr {
+        border-top: 3px solid black;
+    }
+
+    .radials {
+        margin-bottom: 3%;
+
+        label {
+            margin-right: 2%;
+            font-family: 'Times New Roman', Times, serif;
+        }
+
+        .view {
+            display: none;
+
+            @include sm {
+                display: inline;
+            }
+        }
+    }
+
+}

@@ -1,0 +1,26 @@
+version: "3.9"
+   
+services:
+  db:
+    build:
+      context: ./Data
+    command: --init-file /Data/init.sql
+    volumes:
+      - ./Data/init.sql:/Data/init.sql
+      - ./db:/var/lib/mysql
+    environment:
+      - MYSQL_ROOT_PASSWORD=root_password
+    ports:
+      - 3306:3306
+    container_name: directory_db
+  app:
+    build:
+      context: ./api
+    container_name: directory_api
+    ports:
+      - 3000:3000
+    depends_on:
+      - db
+
+volumes:
+  directory_volume:

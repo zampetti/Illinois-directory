@@ -1,0 +1,29 @@
+.body {
+    border: 1px solid rgba(3, 84, 109, 0.5);
+    height: 500px;
+    width: 30%;
+    min-width: 200px;
+    margin-right: 2%;
+    margin-bottom: 2%;
+    font-family: 'Playfair Display', serif;
+
+    .image {
+        width: 200px;
+        height: 200px;
+        margin: 1% auto;
+    }
+
+    .profile {
+        width: 80%;
+        height: 200px;
+        margin: auto;
+    }
+
+    .department {
+        background-color: blue;
+        color: white;
+        text-align: center;
+        padding: 1%;
+        width: 98%;
+    }
+}

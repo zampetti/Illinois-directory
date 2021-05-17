@@ -1,0 +1,16 @@
+$screen-sm-min: 480px;
+@mixin sm {
+    @media (min-width: #{$screen-sm-min}) {
+        @content;
+    }
+ }
+
+.body {
+    height: 700px;
+    overflow: scroll;
+    padding-right: 5%;
+
+    @include sm {
+        padding-right: 10%;
+    }
+}
